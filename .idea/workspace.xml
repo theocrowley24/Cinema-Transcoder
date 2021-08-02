@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="65401e0e-5d86-4d81-9c3b-dc4016e9b8a2" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../api/src/helpers/multipart_parsing.rs" beforeDir="false" afterPath="$PROJECT_DIR$/../api/src/helpers/multipart_parsing.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../api/src/helpers/recommender.rs" beforeDir="false" afterPath="$PROJECT_DIR$/../api/src/helpers/recommender.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend-new/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../frontend-new/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend-new/src/api.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../frontend-new/src/api.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend-new/src/components/RecommendedChannels.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../frontend-new/src/components/RecommendedChannels.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend-new/src/components/RecommendedVideos.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../frontend-new/src/components/RecommendedVideos.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend-new/src/scenes/ChannelSignupPage.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../frontend-new/src/scenes/ChannelSignupPage.tsx" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/guzzle" />
+      <path value="$PROJECT_DIR$/vendor/psr/http-client" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/psr7" />
+      <path value="$PROJECT_DIR$/vendor/aws/aws-sdk-php" />
+      <path value="$PROJECT_DIR$/vendor/mtdowling/jmespath.php" />
+      <path value="$PROJECT_DIR$/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/promises" />
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/ralouphie/getallheaders" />
+      <path value="$PROJECT_DIR$/vendor/faapz/pdo" />
+      <path value="$PROJECT_DIR$/vendor/starkbank/ecdsa" />
+      <path value="$PROJECT_DIR$/vendor/sendgrid/sendgrid" />
+      <path value="$PROJECT_DIR$/vendor/sendgrid/php-http-client" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1kuzk0iRNxbhgUAvHlsJeRixz5e" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../gitlab/cinema-api" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/App/Domain" />
+      <recent name="$PROJECT_DIR$/App" />
+      <recent name="$PROJECT_DIR$/Models" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="65401e0e-5d86-4d81-9c3b-dc4016e9b8a2" name="Default Changelist" comment="" />
+      <created>1606565403705</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606565403705</updated>
+      <workItem from="1606565404805" duration="7588000" />
+      <workItem from="1606679197534" duration="2112000" />
+      <workItem from="1606815305525" duration="4000" />
+      <workItem from="1613238218933" duration="1056000" />
+      <workItem from="1613401031257" duration="3000" />
+      <workItem from="1613564169706" duration="15000" />
+      <workItem from="1616606366006" duration="2794000" />
+      <workItem from="1616696819362" duration="10000" />
+      <workItem from="1618855917132" duration="1465000" />
+      <workItem from="1618951408482" duration="53000" />
+      <workItem from="1619979269181" duration="607000" />
+      <workItem from="1620155647351" duration="3000" />
+      <workItem from="1620726869977" duration="52000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="743" y="270" width="424" height="491" key="FileChooserDialogImpl" timestamp="1620726920643">
+      <screen x="0" y="27" width="1920" height="976" />
+    </state>
+    <state x="743" y="1353" width="424" height="491" key="FileChooserDialogImpl/0.1080.1920.1080/1920.1080.1920.1080/1920.0.1920.1080@0.1080.1920.1080" timestamp="1616696828119" />
+    <state x="2663" y="1353" key="FileChooserDialogImpl/0.1080.1920.1080/1920.1080.1920.1080/1920.0.1920.1080@1920.1080.1920.1080" timestamp="1618951459804" />
+    <state x="743" y="270" key="FileChooserDialogImpl/0.27.1920.976/1920.0.1920.1080@0.27.1920.976" timestamp="1620726920643" />
+  </component>
+</project>

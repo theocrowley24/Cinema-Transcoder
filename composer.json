@@ -1,0 +1,23 @@
+{
+    "name": "theo/cinema-jobs",
+    "type": "project",
+    "require": {
+        "faapz/pdo": "^2.1",
+        "aws/aws-sdk-php": "^3.164",
+        "sendgrid/sendgrid": "^7.9"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "App/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Theo Crowley",
+            "email": "theocrowley24@gmail.com"
+        }
+    ],
+    "scripts": {
+        "start": "php App/VideoJobQueue.php"
+    }
+}
